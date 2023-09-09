@@ -1,0 +1,3 @@
+﻿  CharReplaceTable_Generator.cpp
+D:\Data\С++\CharReplaceTable_Generator\CharReplaceTable_Generator.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharReplaceTable_Generator.vcxproj -> D:\Data\С++\CharReplaceTable_Generator\x64\Debug\CharReplaceTable_Generator.exe
